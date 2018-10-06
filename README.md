@@ -1,1 +1,11 @@
 # A-Machine-Learning-Tool-for-Biofil-Inhibitory-Peptides-Prediction
+Work published in a peer-reviewed international journal Frontiers in Microbiology
+
+## Abstract
+<p align="justify"> Approximately 75% of microbial infections found in humans are caused by microbial biofilms. These biofilms are resistant to host immune system and most of the currently available antibiotics. Small peptides are extensively studied for their role as anti-microbial peptides, however, only a limited studies have shown their potential as inhibitors of biofilm. Therefore, to develop a unique computational method aimed at the prediction of biofilm inhibiting peptides, the experimentally validated biofilm inhibiting peptides sequences were used to extract sequence based features and to identify unique sequence motifs. Biofilm inhibiting peptides were observed to be abundant in positively charged and aromatic amino acids, and also showed selective abundance of some dipeptides and sequence motifs. These individual sequence based features were utilized to construct Support Vector Machine-based prediction models and additionally by including sequence motifs information, the hybrid models were constructed. Using 10-fold cross validation, the hybrid model displayed the accuracy and Matthews Correlation Coefficient (MCC) of 97.83% and 0.87, respectively. On the validation dataset, the hybrid model showed the accuracy and MCC value of 97.19% and 0.84, respectively. The validated model and other tools developed for the prediction of biofilm inhibiting peptides are available freely as web server at http://metagenomics.iiserb.ac.in/biofin/ and http://metabiosys.iiserb.ac.in/biofin/.</p>
+
+## Access to tool, methods, and results
+<p align="justify"> Complete article can be accessed at the journal website (link: https://www.frontiersin.org/articles/10.3389/fmicb.2016.00949/full). The same article is also provided in this repositoary as a pdf file (complete_article.pdf). The tool can be accessed and used for making new predictions at our laboratoty website (link: http://metagenomics.iiserb.ac.in/biofin/) </p>
+
+## Citation 
+<p align="justify"> Gupta, Sudheer, Ashok K. Sharma, Shubham K. Jaiswal, and Vineet K. Sharma. "Prediction of biofilm inhibiting peptides: an in silico approach." Frontiers in microbiology 7 (2016): 949. </p>
